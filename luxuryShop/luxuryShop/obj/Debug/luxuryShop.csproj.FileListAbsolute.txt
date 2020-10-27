@@ -69,8 +69,13 @@ D:\MVC\luxuryShop\luxuryShop\bin\System.Web.WebPages.Razor.xml
 D:\MVC\luxuryShop\luxuryShop\bin\Newtonsoft.Json.xml
 D:\MVC\luxuryShop\luxuryShop\bin\Antlr3.Runtime.pdb
 D:\MVC\luxuryShop\luxuryShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\MVC\luxuryShop\luxuryShop\obj\Debug\luxuryShop.csprojAssemblyReference.cache
 D:\MVC\luxuryShop\luxuryShop\obj\Debug\luxuryShop.csproj.CoreCompileInputs.cache
 D:\MVC\luxuryShop\luxuryShop\obj\Debug\luxuryShop.csproj.CopyComplete
 D:\MVC\luxuryShop\luxuryShop\obj\Debug\luxuryShop.dll
 D:\MVC\luxuryShop\luxuryShop\obj\Debug\luxuryShop.pdb
+D:\MVC\luxuryShop\luxuryShop\bin\CKFinder.dll
+D:\MVC\luxuryShop\luxuryShop\bin\CKFinder.pdb
+D:\MVC\luxuryShop\luxuryShop\bin\EntityFramework.dll
+D:\MVC\luxuryShop\luxuryShop\bin\EntityFramework.SqlServer.dll
+D:\MVC\luxuryShop\luxuryShop\bin\EntityFramework.xml
+D:\MVC\luxuryShop\luxuryShop\bin\EntityFramework.SqlServer.xml
